@@ -29,7 +29,7 @@
   - **[Creo](https://github.com/tanmayythakare):** Developer productivity CLI in Go for multi-service workspace automation and template bootstrapping.
   - **AegisOS:** Autonomous multi-agent cloud SecOps & incident response platform with AWS CloudTrail telemetry and MITRE ATT&CK correlation.
   - **[Smart-SecondBrain](https://github.com/tanmayythakare/Smart-SecondBrain):** AI personal productivity platform with Google Gemini RAG, vector embeddings, and automated AWS CI/CD pipeline.
-  - **PR-Terraform:** Enterprise 6-gate Jenkins CI/CD pipeline (TruffleHog, Trivy, Karma, Testcontainers, Syft SBOM) + Terraform AWS IaC.
+  - **[PR-Terraform](https://github.com/tanmayythakare/inventoryManagement-tf):** Enterprise 6-gate Jenkins CI/CD pipeline (TruffleHog, Trivy, Karma, Testcontainers, Syft SBOM) + Terraform AWS IaC.
 - 🧠 **Algorithms & Problem Solving:** 140+ problems solved across Blind 75 and Striver's sheet with focus on deep intuition.
 
 ---
