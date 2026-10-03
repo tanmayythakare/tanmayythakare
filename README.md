@@ -1,118 +1,83 @@
-# Hi, I'm Tanmay Thakare 👋
-💻 Full-Stack Java Developer | ☁️ Cloud (AWS) | 🧠 Problem Solver
+<div align="center">
 
-I build scalable backend systems and full-stack applications using **Java, Spring Boot, and Angular** — and deploy them to production on **AWS**.
-Focused on writing clean code, designing efficient APIs, and solving real-world problems.
+# Hi there, I'm Tanmay Thakare 👋
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Cloud+%26+Backend+Software+Engineer;Tech+Lead+%40+AWS+Student+Builder+Group;Java+21+%E2%80%A2+Spring+Boot+3+%E2%80%A2+Angular+%E2%80%A2+AWS+%E2%80%A2+Go;Building+Kumo+%26+AegisOS" alt="Typing SVG" />
+</a>
 
-## 🧠 About Me
+<p align="center">
+  <b>Final Year B.E. Information Technology @ JSPM BSIOTR, Pune</b><br>
+  Architecting resilient cloud-native backends, developer infrastructure, and multi-agent systems.
+</p>
 
-* 🔭 Building real-world full-stack applications and deploying them to production
-* ☁️ Hands-on with AWS — EC2, S3, CloudFront, RDS, ECR, SSM, IAM
-* 🌱 Practicing Data Structures & Algorithms (120+ problems solved)
-* 💡 Interested in backend development, cloud infrastructure, and system design
-* 📍 India
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanmay-thakare/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://builder.aws.com/"><img src="https://img.shields.io/badge/AWS_Builder_%40tanmaythakare-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Builder" /></a>
+  <a href="mailto:tanmayrthakare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</div>
 
 ---
 
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🚀 What I'm Focused On
+
+- ☁️ **Cloud & Community Leadership:** Tech Lead at **AWS Student Builder Group (JSPM BSIOTR)** & selected for **AWS New Voices (Cohort 3)** speaker track.
+- 🛠️ **Active Engineering & Flagships:**
+  - **[Kumo](https://github.com/tanmayythakare/kumo):** Cloud infrastructure WebGL/canvas editor with bidirectional HCL Terraform compiler, real-time cost estimation, and capacity simulation.
+  - **[Creo](https://github.com/tanmayythakare):** Developer productivity CLI in Go for multi-service workspace automation and template bootstrapping.
+  - **AegisOS:** Autonomous multi-agent cloud SecOps & incident response platform with AWS CloudTrail telemetry and MITRE ATT&CK correlation.
+  - **[Smart-SecondBrain](https://github.com/tanmayythakare/Smart-SecondBrain):** AI personal productivity platform with Google Gemini RAG, vector embeddings, and automated AWS CI/CD pipeline.
+  - **PR-Terraform:** Enterprise 6-gate Jenkins CI/CD pipeline (TruffleHog, Trivy, Karma, Testcontainers, Syft SBOM) + Terraform AWS IaC.
+- 🧠 **Algorithms & Problem Solving:** 140+ problems solved across Blind 75 and Striver's sheet with focus on deep intuition.
 
 ---
 
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 💻 Tech Arsenal & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,postgres,mysql,aws,docker,linux,jenkins,terraform,go,python,git,github,postman" alt="Skill Icons" />
+</div>
+
+<br>
+
+| Domain | Core Technologies |
+| :--- | :--- |
+| **Backend & APIs** | Java 17/21, Spring Boot 3, Spring Security 6, JWT, Hibernate/JPA, RESTful APIs, Go, Python |
+| **Cloud & DevOps** | AWS (EC2, S3, CloudFront, Lambda, API Gateway, Bedrock, SSM, IAM), Docker, Linux, Jenkins CI/CD, Terraform IaC, Trivy |
+| **Frontend & UI** | Angular 17/18 (Signals, Standalone Components), TypeScript, PixiJS, HTML5, CSS3, Tailwind CSS |
+| **Data & Storage** | PostgreSQL, MySQL, Redis, Flyway Database Migrations |
 
 ---
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### 📊 Live GitHub Telemetry
 
-**AWS Services:** EC2 • S3 • CloudFront • RDS • ECR • SSM • IAM
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanmayythakare&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Tanmay's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayythakare&theme=tokyonight&hide_border=true" alt="Tanmay's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
----
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-### 🧩 Core Concepts
-DSA • REST APIs • OOP • Database Design • CI/CD • Cloud Deployment
-
----
-
-## 🚀 Projects
-
-### 🧠 Smart-SecondBrain — AI-Powered Personal Productivity OS
-🌐 [Live Demo](https://d3icm4v3pyidtw.cloudfront.net) • [GitHub](https://github.com/tanmayythakare/Smart-SecondBrain)
-
-Full-stack AI productivity system with a RAG-based chat assistant that reasons about your personal tasks and notes.
-
-**Key Features**
-- RAG pipeline — AI reads your actual data before responding
-- Real-time streaming responses via Server-Sent Events (SSE)
-- Vector embeddings stored in PostgreSQL for semantic search
-- Decision Engine routes queries (AI / Direct DB / Agentic actions)
-- JWT authentication with per-user data isolation
-
-**AWS Deployment**
-- Frontend: S3 + CloudFront (HTTPS, global CDN)
-- Backend: EC2 + Docker container
-- Database: RDS PostgreSQL (managed)
-- CI/CD: GitHub Actions → ECR → EC2 via SSM (automated on every push)
-
-**Tech:** Spring Boot • Angular • PostgreSQL • Google Gemini • Docker • AWS
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayythakare&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
 
 ---
 
-### 💸 DailySpend — Personal Finance Tracker
-Application to track expenses, income, and personal transactions.
+### 🐍 Contribution Activity
 
-**Key Features**
-* Account and transaction management
-* Track money lent/borrowed
-* Basic analytics and reports
-
-**Tech:** Spring Boot • Angular • PostgreSQL
-
----
-## 📊 DSA
-* Solved **120+ problems** on LeetCode
-* Focus on Arrays, Hashing, and Dynamic Programming
-* Regular problem-solving practice
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tanmayythakare/tanmayythakare/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
-## 🎯 Current Focus
-* Building and deploying production-ready applications on AWS
-* Learning system design fundamentals
-* Strengthening cloud and DevOps skills
-
----
-
-## 📫 Connect
-* 🐙 GitHub: https://github.com/tanmayythakare
-* ✉️ Email: tanmayrthakare@gmail.com
-
----
-
-⭐️ *Always learning. Always building. Always deploying.*
+<div align="center">
+  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
+</div>
