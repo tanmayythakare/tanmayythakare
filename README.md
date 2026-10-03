@@ -73,7 +73,11 @@
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tanmayythakare/tanmayythakare/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmayythakare/tanmayythakare/output/github-contribution-grid-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanmayythakare/tanmayythakare/output/github-contribution-grid-snake.svg?raw=true">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tanmayythakare/tanmayythakare/output/github-contribution-grid-snake.svg?raw=true" />
+  </picture>
 </div>
 
 ---
