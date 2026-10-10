@@ -2,10 +2,10 @@
 
 # Tanmay Thakare
 
-**Cloud & Backend Software Engineer | Tech Lead @ AWS Student Builder Group**
+**Cloud & Software Engineer | Tech Lead @ AWS Student Builder Group**
 
 <a href="https://github.com/tanmayythakare">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Cloud+%26+Backend+Software+Engineer;Tech+Lead+%40+AWS+Student+Builder+Group;Java+21+%E2%80%A2+Spring+Boot+3+%E2%80%A2+Angular+%E2%80%A2+AWS+%E2%80%A2+Go;Building+Creo%2C+Kumo+%26+Cloud+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Cloud+%26+Software+Engineer;Tech+Lead+%40+AWS+Student+Builder+Group;Java+21+%E2%80%A2+Spring+Boot+3+%E2%80%A2+Angular+%E2%80%A2+AWS+%E2%80%A2+Go;Building+Creo%2C+Kumo+%26+Cloud+Platforms" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -23,11 +23,11 @@
 
 ---
 
-## Engineering Focus & Community Leadership
+## Engineering Focus & Systems Architecture
 
-* **Cloud & Community Leadership**: Tech Lead at **AWS Student Builder Group (JSPM BSIOTR)** & selected for **AWS New Voices (Cohort 3)** speaker track.
-* **Systems & Distributed Architecture**: Designing multi-container systems, declarative developer tooling, and automated infrastructure pipelines.
-* **Algorithms & Problem Solving**: 140+ problems solved across Blind 75 and Striver's SDE sheet with focus on core computational patterns, graph traversals, and algorithmic optimization.
+* **Cloud & Community Leadership**: Tech Lead at **AWS Student Builder Group (JSPM BSIOTR)**, mentoring developers and driving cloud-native architecture sessions.
+* **Systems & Distributed Architecture**: Designing multi-container microservice platforms, declarative developer tooling, and automated infrastructure pipelines.
+* **Production Reliability & DevSecOps**: Enforcing shift-left security (Trivy, TruffleHog), automated CI/CD quality gates, and resilient database persistence.
 
 ---
 
@@ -40,7 +40,7 @@
 | **[Smart-SecondBrain](https://github.com/tanmayythakare/Smart-SecondBrain)** | AI & Productivity | Spring Boot 3.2, Angular 12, Google Gemini 2.5 Flash Lite, pgvector | AI-augmented personal knowledge engine with vector retrieval-augmented generation (RAG) and AWS CloudFront edge delivery. |
 | **[CRMApp](https://github.com/tanmayythakare/CRMApp)** | Enterprise Full-Stack | Spring Boot 3.2, Angular 17 Standalone, PostgreSQL 16, Chart.js | Enterprise relationship management platform with PostgreSQL GIN full-text search, interaction timeline, and real-time executive analytics. |
 | **[dailySpend2](https://github.com/tanmayythakare/dailySpend2)** | Containerized Platform | Spring Boot 3.5, Angular 17.3, PostgreSQL 16, Docker Compose | Containerized personal finance ecosystem with multi-container Docker Compose orchestration and recurring transaction automation. |
-| **[kumo](https://github.com/tanmayythakare/kumo)** | Cloud Engine / Compiler | WebGL, Go 1.23+, Terraform HCL AST Compiler | Visual cloud infrastructure topology editor with bidirectional HCL compilation, sub-second cost estimation, and blast-radius security analysis. |
+| **[kumo](https://github.com/tanmayythakare/kumo)** | Cloud Architecture Studio | Angular 17, Spring Boot 3, Terraform HCL, PostgreSQL 15 | Visual cloud topology canvas with client-side Terraform HCL compilation, real-time AWS cost estimation, and static security linter with 1-click Quick Fix. |
 
 ---
 
