@@ -27,20 +27,21 @@
 
 * **Cloud & Community Leadership**: Tech Lead at **AWS Student Builder Group (JSPM BSIOTR)**, mentoring developers and driving cloud-native architecture sessions.
 * **Systems & Distributed Architecture**: Designing multi-container microservice platforms, declarative developer tooling, and automated infrastructure pipelines.
-* **Production Reliability & DevSecOps**: Enforcing shift-left security (Trivy, TruffleHog), automated CI/CD quality gates, and resilient database persistence.
+* **DevOps & Kubernetes Infrastructure**: Designing automated CI/CD deployment pipelines, containerized Kubernetes microservices, and Infrastructure as Code (Terraform).
 
 ---
 
 ## Featured Engineering Flagships
 
-| Project | Domain | Architecture | Description |
-| :--- | :--- | :--- | :--- |
-| **[creo](https://github.com/tanmayythakare/creo)** | Developer Tooling / CLI | Go 1.23+, Windows Terminal (`wt.exe`), YAML Schema | Multi-service workspace orchestrator for Windows Terminal. Distributed via custom [Scoop bucket](https://github.com/tanmayythakare/scoop-bucket) with interactive [3D WebGL showcase](https://github.com/tanmayythakare/creo-intro). |
-| **[inventoryManagement-tf](https://github.com/tanmayythakare/inventoryManagement-tf)** | Cloud & DevSecOps | AWS (`ap-south-1`), Terraform 1.9+, Spring Boot 3.3, Angular 18 | Production Cloud Platform with 7-gate Jenkins CI/CD pipeline (TruffleHog, Trivy, Karma, Testcontainers, Syft SBOM) and multi-tier AWS infrastructure. |
-| **[Smart-SecondBrain](https://github.com/tanmayythakare/Smart-SecondBrain)** | AI & Productivity | Spring Boot 3.2, Angular 12, Google Gemini 2.5 Flash Lite, pgvector | AI-augmented personal knowledge engine with vector retrieval-augmented generation (RAG) and AWS CloudFront edge delivery. |
-| **[CRMApp](https://github.com/tanmayythakare/CRMApp)** | Enterprise Full-Stack | Spring Boot 3.2, Angular 17 Standalone, PostgreSQL 16, Chart.js | Enterprise relationship management platform with PostgreSQL GIN full-text search, interaction timeline, and real-time executive analytics. |
-| **[dailySpend2](https://github.com/tanmayythakare/dailySpend2)** | Containerized Platform | Spring Boot 3.5, Angular 17.3, PostgreSQL 16, Docker Compose | Containerized personal finance ecosystem with multi-container Docker Compose orchestration and recurring transaction automation. |
-| **[kumo](https://github.com/tanmayythakare/kumo)** | Cloud Architecture Studio | Angular 17, Spring Boot 3, Terraform HCL, PostgreSQL 15 | Visual cloud topology canvas with client-side Terraform HCL compilation, real-time AWS cost estimation, and static security linter with 1-click Quick Fix. |
+| # | Project | Domain | Architecture | Description |
+| :-: | :--- | :--- | :--- | :--- |
+| 1 | **[Smart-SecondBrain](https://github.com/tanmayythakare/Smart-SecondBrain)** | AI & Productivity | Spring Boot 3.2, Angular 12, Google Gemini 2.5 Flash Lite, pgvector | AI-augmented personal knowledge engine with vector retrieval-augmented generation (RAG) and AWS CloudFront edge delivery. |
+| 2 | **[kumo](https://github.com/tanmayythakare/kumo)** | Cloud Architecture Studio | Angular 17, Spring Boot 3, Terraform HCL, PostgreSQL 15 | Visual cloud topology canvas with client-side Terraform HCL compilation, real-time AWS cost estimation, and static security linter with 1-click Quick Fix. |
+| 3 | **[creo](https://github.com/tanmayythakare/creo)** | Developer Tooling / CLI | Go 1.23+, Windows Terminal (`wt.exe`), YAML Schema | Multi-service workspace orchestrator for Windows Terminal. Distributed via custom [Scoop bucket](https://github.com/tanmayythakare/scoop-bucket) with interactive [3D WebGL showcase](https://github.com/tanmayythakare/creo-intro). |
+| 4 | **[creo-intro](https://github.com/tanmayythakare/creo-intro)** | 3D WebGL & Interactive | Three.js, GSAP 3, Web Audio API, Modern CSS | Interactive cybernetic showcase landing page for Creo with custom halftone WebGL shader, orbital microservice matrix, and terminal simulator. |
+| 5 | **[inventoryManagement-tf](https://github.com/tanmayythakare/inventoryManagement-tf)** | Cloud Platform & Infrastructure | AWS (`ap-south-1`), Terraform 1.9+, Spring Boot 3.3, Angular 18 | Production Cloud Platform with automated multi-stage CI/CD pipeline, comprehensive test verification, and multi-tier AWS Terraform infrastructure. |
+| 6 | **[CRMApp](https://github.com/tanmayythakare/CRMApp)** | Enterprise Full-Stack | Spring Boot 3.2, Angular 17 Standalone, PostgreSQL 16, Chart.js | Enterprise relationship management platform with PostgreSQL GIN full-text search, interaction timeline, and real-time executive analytics. |
+| 7 | **[dailySpend2](https://github.com/tanmayythakare/dailySpend2)** | Containerized Platform | Spring Boot 3.5, Angular 17.3, PostgreSQL 16, Docker Compose | Containerized personal finance ecosystem with multi-container Docker Compose orchestration and recurring transaction automation. |
 
 ---
 
