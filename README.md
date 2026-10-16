@@ -9,7 +9,6 @@
 </a>
 
 <p align="center">
-  <b>Final Year B.E. Information Technology @ JSPM BSIOTR, Pune</b><br>
   Architecting resilient cloud-native backends, developer infrastructure, and distributed systems.
 </p>
 
